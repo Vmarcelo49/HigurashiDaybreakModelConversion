@@ -1,0 +1,2 @@
+Fragmotion has everything we need and currently can convert the files, but it crashes a lot and we have to jump through many hoops to convert or load the files.
+No CLI kills it as a real contender for MVP of the project
