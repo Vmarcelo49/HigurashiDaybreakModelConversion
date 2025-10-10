@@ -1,0 +1,1 @@
+All models can be found in https://github.com/HigurashiArchive/higurashi-daybreak/tree/master/daybreak_files_deobfuscated

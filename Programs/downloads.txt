@@ -1,2 +1,0 @@
-Assimp:
-https://github.com/assimp/assimp/releases
