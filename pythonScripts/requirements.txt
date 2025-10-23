@@ -1,3 +1,0 @@
-pyassimp>=5.2.5
-numpy>=1.21.0
-raylib>=5.0.0.0
